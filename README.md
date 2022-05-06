@@ -9,7 +9,7 @@ The purpose of this project was to fine-tune and cross-evaluate bert-base-uncase
 3. [QuAC](https://quac.ai/)
 4. [NewsQA](https://github.com/Maluuba/newsqa)
 
-More specifically, i had to first fine-tune and evaluate the BERT model on SQuAD 2.0 dataset and then do the on the other 4 and after that cross-evaluate between each model and dataset by calculating the corresponding f1 scores. 
+More specifically, i had to first fine-tune and evaluate the BERT model on SQuAD 2.0 dataset and then do the on the other 3 and after that cross-evaluate between each model and dataset by calculating the corresponding f1 scores. 
 
 In other words, the task was to reproduce the table 3 of the paper [What do Models Learn from Question Answering Datasets?](https://arxiv.org/pdf/2004.03490.pdf).
 
